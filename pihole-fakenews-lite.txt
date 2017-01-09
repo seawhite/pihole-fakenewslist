@@ -336,7 +336,6 @@
 0.0.0.0 doonesbury.washingtonpost.com
 0.0.0.0 drdrew.blogs.cnn.com
 0.0.0.0 drgupta.cnn.com
-0.0.0.0 drive.google.com
 0.0.0.0 dslsca.people.msnbc.com
 0.0.0.0 dumpsharpton.groups.msnbc.com
 0.0.0.0 dwchin.people.msnbc.com
@@ -503,7 +502,6 @@
 0.0.0.0 goto.politico.com
 0.0.0.0 gprete40hotmailcom.people.msnbc.com
 0.0.0.0 greenwombat.blogs.fortune.cnn.com
-0.0.0.0 groups.google.com
 0.0.0.0 grvrdr.huffingtonpost.com
 0.0.0.0 g-sandygreenlyn.people.msnbc.com
 0.0.0.0 g-sashafulton.people.msnbc.com
@@ -1344,7 +1342,6 @@
 0.0.0.0 ws.staging.huffingtonpost.com
 0.0.0.0 www2.edition.cnn.com
 0.0.0.0 www.bookshop.theguardian.com
-0.0.0.0 www.budgettravel.com
 0.0.0.0 www-cgi.cnn.com
 0.0.0.0 www.cnn.com
 0.0.0.0 www.cnnstudentnews.cnn.com
@@ -1353,9 +1350,7 @@
 0.0.0.0 www.dateline.msnbc.com
 0.0.0.0 www.discoversouthafrica.theguardian.com
 0.0.0.0 www.edition.cnn.com
-0.0.0.0 www.facebook.com
 0.0.0.0 wwwfacebookcomfirethegop.groups.msnbc.com
-0.0.0.0 www.google.com
 0.0.0.0 www.huffingtonpost.com
 0.0.0.0 www.i.cdn.cnn.com
 0.0.0.0 www.msnbc.com
